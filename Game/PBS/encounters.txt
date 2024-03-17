@@ -1,0 +1,59 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[005] # Route 1
+Land,31
+    34,AMAZEL,3,4
+    33,MUSIBIRD,3,4
+    33,WINBEE,3,4
+OldRod
+    100,INTELLIDERP,5
+#-------------------------------
+[007] # Furnend City
+Land,41
+    33,AMAZEL,5
+    33,CLOLLY,5
+LandEvening,41
+    30,LANYA,5
+#-------------------------------
+[021] # Route 21
+Land,14
+    35,PYEN,12,16
+    30,MUSIBIRD,12,16
+    25,NINMIN,13,17
+    10,ARMADIX,14
+Water,10
+    50,INTELLIDERP,15
+    50,SQUIZARD,12,15
+#-------------------------------
+[028] # Starby City
+LandAfternoon,21
+    40,LANYA,5
+Water,2
+    20,MAKOCHINE,5
+    20,SQUIZARD,5
+#-------------------------------
+[042] # Route 10
+Land,21
+    34,AMAZEL,3,4
+    33,MUSIBIRD,3,4
+    33,WINBEE,3,4
+Water,2
+    100,SQUIZARD,12
+OldRod
+    100,INTELLIDERP,6,7
+#-------------------------------
+[043] # Route 11
+Land,21
+    30,BAOBY,5
+    30,DROOPIG,5
+    20,KUDO,5
+OldRod
+    20,SQUIZARD,5
+LandEvening,21
+    20,LANYA,5
+#-------------------------------
+[077] # Route 2
+Land,8
+    20,BAOBY,5,10
+    20,KUDO,5,12
+    20,PLANTID,5,9

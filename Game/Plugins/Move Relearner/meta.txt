@@ -1,0 +1,3 @@
+Name         = Move Relearner Party
+Version      = 1.0.0
+Credits      = D.J.

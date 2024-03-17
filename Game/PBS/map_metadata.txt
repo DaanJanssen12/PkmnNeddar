@@ -1,0 +1,128 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Route_Template
+Name = Route_Template
+Outdoor = true
+#-------------------------------
+[003]   # Player's house
+Name = \PN's house
+HealingSpot = 2,8,8
+MapPosition = 0,20,17
+#-------------------------------
+[004]   # Pokémon Lab
+Name = Pokémon Lab
+ShowArea = false
+MapPosition = 0,20,17
+#-------------------------------
+[005]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,20,16
+BattleBack = field
+#-------------------------------
+[006]   # Kurt's house
+Name = Route 1
+MapPosition = 0,20,16
+#-------------------------------
+[007]   # Furnend City
+Name = Furnend City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,20,14
+MapSize = 2,11
+#-------------------------------
+[008]   # Route 20
+Name = Route 20
+Outdoor = true
+#-------------------------------
+[009]   # Furnend City Poké Center
+Name = Cedolan City
+HealingSpot = 8,17,11
+MapPosition = 0,20,14
+#-------------------------------
+[010]   # Furnend City Gym
+Name = Cedolan City
+MapPosition = 0,20,14
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[011]   # Pokémon Institute
+Name = Cedolan City
+MapPosition = 0,20,14
+#-------------------------------
+[021]   # Route 12
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,13
+BattleBack = 
+#-------------------------------
+[022]   # Venbridge Town
+Name = Venbridge Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,20,17
+BattleBack = field
+#-------------------------------
+[023]   # Caydam Town
+Name = Caydam Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,14
+#-------------------------------
+[024]   # Caydam Town Poké Center
+Name = Caydam Town Poké Center
+ShowArea = false
+#-------------------------------
+[028]   # Starby City
+Name = Starby City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,9
+MapSize = 0,
+#-------------------------------
+[030]   # Route 13 - 2
+Name = Backdrop
+#-------------------------------
+[035]   # Starby City Poké Center
+Name = Starby City Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 28,24,12
+#-------------------------------
+[042]   # Route 10
+Name = Route 10
+Outdoor = true
+ShowArea = true
+MapPosition = 0,20,16
+BattleBack = field
+#-------------------------------
+[043]   # Route 11
+Name = Route 11
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,15
+#-------------------------------
+[052]   # Poma City
+Name = Poma City
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[077]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,13
+SnapEdges = false
+MapSize = 0,
+Environment = Forest
