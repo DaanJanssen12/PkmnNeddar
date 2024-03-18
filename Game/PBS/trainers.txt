@@ -227,3 +227,9 @@ Pokemon = CLOWEE,5
 [RIVAL_Grass,Anthony]
 LoseText = ...
 Pokemon = MAKOCHINE,5
+#-------------------------------
+[LEADER_Jane_Normal,Jane,2]
+LoseText = ...
+Pokemon = HABKID,24
+Pokemon = DOECHI,25
+Pokemon = WINQUEEN,28

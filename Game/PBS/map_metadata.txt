@@ -88,7 +88,14 @@ MapPosition = 0,16,9
 MapSize = 0,
 #-------------------------------
 [030]   # Route 13 - 2
-Name = Backdrop
+Name = Route 13
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[031]   # Route 13
+Name = Route 13
+Outdoor = true
+ShowArea = true
 #-------------------------------
 [035]   # Starby City Poké Center
 Name = Starby City Poké Center
