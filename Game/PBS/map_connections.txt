@@ -1,34 +1,38 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Route 12 (21) - Starby City (28)
-21,East,0,28,West,2
-# Route 13 (31) - Starby City (28)
-31,West,0,28,East,0
-# Caydam Town (23) - Route 12 (21)
-23,North,0,21,South,1
-# Route 2 (77) - Route 12 (21)
-77,North,0,21,South,163
-# Poma City (52) - Caydam Town (23)
-52,South,0,23,North,165
-# Route 10 (42) - Caydam Town (23)
-42,West,0,23,East,9
-# TREES (37) - Caydam Town (23)
-37,East,11,23,West,0
-# Route 11 (43) - Caydam Town (23)
-43,East,0,23,West,9
-# Route 13 - 2 (30) - Poma City (52)
-30,East,3,52,West,0
-# Route 2 (77) - Poma City (52)
-77,North,3,52,South,0
-# Route 13 (31) - Route 13 - 2 (30)
-31,South,38,30,North,0
-# Furnend City (7) - Route 10 (42)
-7,West,4,42,East,0
-# TREES (37) - Route 10 (42)
-37,South,61,42,North,0
 # Route 1 (5) - Furnend City (7)
 5,North,2,7,South,0
+# Route 10 (42) - Furnend City (7)
+42,East,0,7,West,4
+# More Trees (39) - Furnend City (7)
+39,East,26,7,West,0
 # Venbridge Town (22) - Route 1 (5)
 22,North,0,5,South,1
-# Route 11 (43) - TREES (37)
-43,North,50,37,South,0
+# Caydam Town (23) - Route 10 (42)
+23,East,9,42,West,0
+# Water (38) - Route 10 (42)
+38,South,91,42,North,0
+# More Trees (39) - Route 10 (42)
+39,South,0,42,North,23
+# Route 12 (21) - Caydam Town (23)
+21,South,1,23,North,0
+# Poma City (52) - Caydam Town (23)
+52,South,0,23,North,165
+# Route 11 (43) - Caydam Town (23)
+43,East,0,23,West,9
+# Starby City (28) - Route 12 (21)
+28,West,2,21,East,0
+# Route 2 (77) - Route 12 (21)
+77,North,0,21,South,163
+# Route 13 (31) - Starby City (28)
+31,West,0,28,East,0
+# Route 13 - 2 (30) - Route 13 (31)
+30,North,0,31,South,38
+# Poma City (52) - Route 13 - 2 (30)
+52,West,0,30,East,3
+# Route 2 (77) - Poma City (52)
+77,North,3,52,South,0
+# Water (38) - Route 11 (43)
+38,South,0,43,North,20
+# More Trees (39) - Route 11 (43)
+39,South,0,43,North,134
