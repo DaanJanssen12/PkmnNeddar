@@ -89,9 +89,9 @@ Pokemon = WINBEE,2
 [YOUNGSTER,Ben]
 LoseText = ...
 Pokemon = AMAZEL,3
-Pokemon = AMAZEL,3
+Pokemon = AMAZEL,4
 #-------------------------------
-[YOUNGSTER,Josh]
+[LASS,Sophie]
 LoseText = ...
 Pokemon = MUSIBIRD,4
 #-------------------------------
@@ -218,15 +218,15 @@ Pokemon = ROCKID,15
 #-------------------------------
 [RIVAL_Water,Anthony]
 LoseText = ...
-Pokemon = TAIMBER,5
+Pokemon = PYEN,5
 #-------------------------------
 [RIVAL_Fire,Anthony]
 LoseText = ...
-Pokemon = CLOWEE,5
+Pokemon = PYEN,5
 #-------------------------------
 [RIVAL_Grass,Anthony]
 LoseText = ...
-Pokemon = MAKOCHINE,5
+Pokemon = PYEN,5
 #-------------------------------
 [LEADER_Jane_Normal,Jane,2]
 LoseText = ...

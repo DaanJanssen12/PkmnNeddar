@@ -33,7 +33,9 @@ Name = Furnend City
 Outdoor = true
 ShowArea = true
 MapPosition = 0,20,14
+SnapEdges = false
 MapSize = 2,11
+Environment = None
 #-------------------------------
 [008]   # Route 20
 Name = Route 20
@@ -103,6 +105,10 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 HealingSpot = 28,24,12
+#-------------------------------
+[041]   # Furnend City Stadium
+Name = Furnend City Stadium
+SnapEdges = true
 #-------------------------------
 [042]   # Route 10
 Name = Route 10

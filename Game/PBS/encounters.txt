@@ -15,7 +15,7 @@ Land,41
 LandEvening,41
     30,LANYA,5
 #-------------------------------
-[021] # Route 21
+[021] # Route 12
 Land,14
     35,PYEN,12,16
     30,MUSIBIRD,12,16
