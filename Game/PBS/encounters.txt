@@ -11,7 +11,7 @@ OldRod
 [007] # Furnend City
 Land,41
     33,AMAZEL,5
-    33,CLOLLY,5
+    33,CLOWEE,5
 LandEvening,41
     30,LANYA,5
 #-------------------------------

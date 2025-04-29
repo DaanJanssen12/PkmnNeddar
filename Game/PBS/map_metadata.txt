@@ -34,8 +34,9 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,20,14
 SnapEdges = false
+BattleBack = 
 MapSize = 2,11
-Environment = None
+Environment = Grass
 #-------------------------------
 [008]   # Route 20
 Name = Route 20
@@ -46,7 +47,7 @@ Name = Cedolan City
 HealingSpot = 8,17,11
 MapPosition = 0,20,14
 #-------------------------------
-[010]   # Furnend City Gym
+[010]   # Furnend Academy
 Name = Cedolan City
 MapPosition = 0,20,14
 BattleBack = indoor3

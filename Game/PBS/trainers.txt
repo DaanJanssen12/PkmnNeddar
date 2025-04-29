@@ -91,6 +91,17 @@ LoseText = ...
 Pokemon = AMAZEL,3
 Pokemon = AMAZEL,4
 #-------------------------------
+[YOUNGSTER,Hiro]
+LoseText = I love Sentret and Furret, they are the best!
+Pokemon = SENTRET,4
+    Moves = CHARM,SCRATCH,DEFENSECURL
+    AbilityIndex = 1
+    Item = ORANBERRY
+Pokemon = SENTRET,5
+    Moves = TIDYUP,QUICKATTACK,DEFENSECURL
+    AbilityIndex = 1
+    Item = ORANBERRY
+#-------------------------------
 [LASS,Sophie]
 LoseText = ...
 Pokemon = MUSIBIRD,4
@@ -233,3 +244,8 @@ LoseText = ...
 Pokemon = HABKID,24
 Pokemon = DOECHI,25
 Pokemon = WINQUEEN,28
+#-------------------------------
+[LASS,Susan]
+LoseText = ...
+Pokemon = MUSIBIRD,5
+Pokemon = LANYA,5
