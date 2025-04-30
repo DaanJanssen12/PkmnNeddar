@@ -17,7 +17,7 @@ LandEvening,41
 #-------------------------------
 [021] # Route 12
 Land,14
-    35,PYEN,12,16
+    35,HYUFF,12,16
     30,MUSIBIRD,12,16
     25,NINMIN,13,17
     10,ARMADIX,14
@@ -46,7 +46,7 @@ OldRod
 Land,21
     30,BAOBY,5
     30,DROOPIG,5
-    20,KUDO,5
+    20,LUNIBBIT,5
 OldRod
     20,SQUIZARD,5
 LandEvening,21
@@ -55,5 +55,5 @@ LandEvening,21
 [077] # Route 2
 Land,8
     20,BAOBY,5,10
-    20,KUDO,5,12
+    20,LUNIBBIT,5,12
     20,PLANTID,5,9

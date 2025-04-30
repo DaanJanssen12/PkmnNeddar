@@ -28,21 +28,21 @@ Pokemon = SLIGMENT,15
     Moves = ROLLOUT,DOUBLESLAP,HARDEN,TOXIC
     AbilityIndex = 1
     Item = ROCKYHELMET
-Pokemon = MINAMAI,15
+Pokemon = HELMYRE,15
     Moves = NUZZLE,AQUAJET,SOAK,PROTECT
     AbilityIndex = 2
     Item = MYSTICWATER
 #-------------------------------
 [LEADER_Matt_Easy,Matthew,1]
 LoseText = Very good.
-Pokemon = MINSEL,14
+Pokemon = HELMIT,14
 Pokemon = SNOME,16
 #-------------------------------
 [LEADER_Matt_Normal,Matthew,1]
 LoseText = Very good.
 Pokemon = SNOME,15
     Moves = FAKEOUT,THIEF,TAUNT,PROTECT
-Pokemon = HABKID,18
+Pokemon = GALLOKID,18
 #-------------------------------
 [LEADER_Matt_Hard,Matthew,1]
 LoseText = Very good.
@@ -54,7 +54,7 @@ Pokemon = SQUIZARD,22
     Moves = CONFUSION,SUPERSONIC,WATERGUN,TOXIC
     AbilityIndex = 0
     Item = RINDOBERRY
-Pokemon = HABKID,22
+Pokemon = GALLOKID,22
     Moves = SHELTER,IRONDEFENSE,TRIPLEKICK,METALCLAW
     AbilityIndex = 1
     Item = ROCKYHELMET
@@ -69,7 +69,7 @@ Pokemon = ELLAMP,28
     Moves = PROTECT,SUCKERPUNCH,HEX,WILLOWISP
     AbilityIndex = 1
     Item = FOCUSSASH
-Pokemon = HABKID,28
+Pokemon = GALLOKID,28
     Moves = KINGSSHIELD,DRAINPUNCH,IRONDEFENSE,METALCLAW
     AbilityIndex = 1
     Item = SITRUSBERRY
@@ -139,7 +139,7 @@ Pokemon = SORCEPHER,10
 LoseText = ...
 Pokemon = AMAZEL,10
 Pokemon = LANYA,10
-Pokemon = KUDO,10
+Pokemon = LUNIBBIT,10
 #-------------------------------
 [GENTLEMAN,Johnson]
 LoseText = ...
@@ -154,18 +154,18 @@ Pokemon = SQUIZARD,8
 Pokemon = CLOLLY,10
     Moves = ABSORB,SLEEPPOWDER,HELPINGHAND
     Ball = LOVEBALL
-Pokemon = MINDOW,10
+Pokemon = HELMYRE,10
     Ball = LOVEBALL
 #-------------------------------
 [HIKER,Chris]
 LoseText = ...
-Pokemon = PYEN,15
+Pokemon = HYUFF,15
 Pokemon = CLOLLY,15
 Pokemon = WINQUEEN,16
 #-------------------------------
 [HIKER,Stephan]
 LoseText = ...
-Pokemon = PYEN,16
+Pokemon = HYUFF,16
 Pokemon = KANKWART,18
 #-------------------------------
 [HIKER,Burt]
@@ -177,7 +177,7 @@ Pokemon = NINMIN,18
 LoseText = ...
 Pokemon = NINMIN,18
 Pokemon = NINMIN,18
-Pokemon = PYRON,20
+Pokemon = HYACKLE,20
 #-------------------------------
 [POKEMANIAC,Tyler]
 LoseText = ...
@@ -229,20 +229,20 @@ Pokemon = ROCKID,15
 #-------------------------------
 [RIVAL_Water,Anthony]
 LoseText = ...
-Pokemon = PYEN,5
+Pokemon = HYUFF,5
 #-------------------------------
 [RIVAL_Fire,Anthony]
 LoseText = ...
-Pokemon = PYEN,5
+Pokemon = HYUFF,5
 #-------------------------------
 [RIVAL_Grass,Anthony]
 LoseText = ...
-Pokemon = PYEN,5
+Pokemon = HYUFF,5
 #-------------------------------
 [LEADER_Jane_Normal,Jane,2]
 LoseText = ...
-Pokemon = HABKID,24
-Pokemon = DOECHI,25
+Pokemon = GALLOKID,24
+Pokemon = LUNOVA,25
 Pokemon = WINQUEEN,28
 #-------------------------------
 [LASS,Susan]

@@ -9740,3 +9740,29 @@ FunctionCode = RandomPower
 Flags = CanProtect,CanMirrorMove
 Description = The user rolls a spectral die, the outcome determines the power.
 #-------------------------------
+[TWILIGHTNOVA]
+Name = Twilight Nova
+Type = LIGHT
+Category = Special
+Power = 100
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+FunctionCode = LowerTargetSpDef1
+Flags = CanProtect,CanMirrorMove
+EffectChance = 30
+Description = The target is hit by a burst of radiant energy drawn from the moon and stars. It may also reduce the target's Sp. Def stat.
+#-------------------------------
+[ECHOSTRIKE]
+Name = Echo Strike
+Type = SOUND
+Category = Physical
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+Priority = 1
+FunctionCode = HitTwoTimes
+Flags = Contact,CanProtect,CanMirrorMove,Sound
+Description = A sharp physical blow followed by a resonating echo, hitting twice in quick succession.
+#-------------------------------

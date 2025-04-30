@@ -150,13 +150,13 @@ FrontSprite = -5,6
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
-[MINDOW]
+[HELMYRE]
 BackSprite = 0,16
 FrontSprite = -4,11
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
-[SLUGNAMI]
+[OOZORROW]
 BackSprite = 0,9
 FrontSprite = 0,13
 ShadowX = 0
@@ -180,31 +180,31 @@ FrontSprite = 0,12
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[PYEN]
+[HYUFF]
 BackSprite = 0,21
 FrontSprite = 0,25
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[PYRON]
+[HYACKLE]
 BackSprite = 0,21
 FrontSprite = 0,25
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[PYRAIN]
+[HYENRAGE]
 BackSprite = 0,14
 FrontSprite = 0,18
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[KUDO]
+[LUNIBBIT]
 BackSprite = 0,11
 FrontSprite = 0,15
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[DOECHI]
+[LUNOVA]
 BackSprite = 0,10
 FrontSprite = 0,14
 ShadowX = 0
@@ -216,25 +216,25 @@ FrontSprite = 0,14
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[SEIRAMP]
+[GHANTIQUE]
 BackSprite = 0,12
 FrontSprite = -1,3
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[MINSEL]
+[HELMIT]
 BackSprite = 0,28
 FrontSprite = 0,32
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[HABKID]
+[GALLOKID]
 BackSprite = 0,19
 FrontSprite = 0,23
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[HABKNIGHT]
+[SIRVALIER]
 BackSprite = 0,13
 FrontSprite = 0,9
 ShadowX = 0
