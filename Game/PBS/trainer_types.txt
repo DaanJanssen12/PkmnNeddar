@@ -299,6 +299,11 @@ Name = Team Rocket
 Gender = Male
 BaseMoney = 32
 #-------------------------------
+[TEAMHYDRA_M]
+Name = Team Hydra
+Gender = Male
+BaseMoney = 32
+#-------------------------------
 [TEAMROCKET_F]
 Name = Team Rocket
 Gender = Female

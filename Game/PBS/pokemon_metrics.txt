@@ -402,7 +402,7 @@ FrontSprite = 0,17
 ShadowX = 0
 ShadowSize = 0
 #-------------------------------
-[ZERBBADON]
+[CERBERAZE]
 BackSprite = 0,9
 FrontSprite = 0,13
 ShadowX = 0

@@ -249,3 +249,7 @@ Pokemon = WINQUEEN,28
 LoseText = ...
 Pokemon = MUSIBIRD,5
 Pokemon = LANYA,5
+#-------------------------------
+[TEAMHYDRA_M,Grunt]
+LoseText = ...
+Pokemon = MAKOCHINE,10
