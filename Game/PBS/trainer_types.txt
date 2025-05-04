@@ -218,6 +218,21 @@ Name = Psychic
 Gender = Female
 BaseMoney = 32
 #-------------------------------
+[TUTOR_Melanie_Easy]
+Name = Tutor
+Gender = Female
+BaseMoney = 0
+#-------------------------------
+[TUTOR_Melanie_Medium]
+Name = Tutor
+Gender = Female
+BaseMoney = 0
+#-------------------------------
+[TUTOR_Melanie_Hard]
+Name = Tutor
+Gender = Female
+BaseMoney = 0
+#-------------------------------
 [SWIMMER_M]
 Name = Swimmer
 Gender = Male

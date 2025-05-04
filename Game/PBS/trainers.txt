@@ -82,6 +82,36 @@ Pokemon = WINQUEEN,30
     AbilityIndex = 1
     Item = SITRUSBERRY
 #-------------------------------
+[TUTOR_Melanie_Easy,Melanie]
+LoseText = ...
+Pokemon = SQUIZARD,15
+Pokemon = BREENY,15
+#-------------------------------
+[TUTOR_Melanie_Medium,Melanie]
+LoseText = ...
+Pokemon = WINBEE,15
+	Moves = LIGHTSCREEN
+Pokemon = SQUIZARD,15
+	Moves = CALMMIND
+    Item = ORANBERRY
+Pokemon = BREENY,15
+	Moves = CALMMIND
+    Item = ORANBERRY
+#-------------------------------
+[TUTOR_Melanie_Hard,Melanie]
+LoseText = ...
+Pokemon = WINBEE,15
+    AbilityIndex = 0
+	Moves = LIGHTSCREEN
+Pokemon = SQUIZARD,15
+    AbilityIndex = 2
+	Moves = CALMMIND
+    Item = SITRUSBERRY
+Pokemon = BREENY,15
+    AbilityIndex = 1
+	Moves = CALMMIND
+    Item = SITRUSBERRY
+#-------------------------------
 [CAMPER,Liam]
 LoseText = ...
 Pokemon = WINBEE,2
