@@ -47,7 +47,7 @@ USING_FLY_ITEM = false
 USING_STRENGTH_ITEM = false
 
 # When true, this overrides the old cut mechanics.
-USING_CUT_ITEM = false
+USING_CUT_ITEM = true
 
 
 #==============================================================================#

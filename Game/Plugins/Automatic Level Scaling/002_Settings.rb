@@ -18,7 +18,7 @@ module LevelScalingSettings
 
   # Scales levels but takes original level differences into consideration
   # Don't forget to set random_increase values to 0 when using this setting
-  PROPORTIONAL_SCALING = false
+  PROPORTIONAL_SCALING = true
 
   # You can use the following to disable level scaling in any condition other then the selected below
   ONLY_SCALE_IF_HIGHER = false   # The script will only scale levels if the player is overleveled

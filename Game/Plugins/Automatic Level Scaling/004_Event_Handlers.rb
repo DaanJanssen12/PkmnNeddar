@@ -9,7 +9,7 @@ EventHandlers.add(:on_wild_pokemon_created, :automatic_level_scaling,
     id = pbGet(LevelScalingSettings::WILD_VARIABLE)
     if id != 0
       AutomaticLevelScaling.setDifficulty(id)
-      AutomaticLevelScaling.setNewLevel(pokemon, -5, 42)
+      AutomaticLevelScaling.setNewLevel(pokemon, -1, 42)
     end
   }
 )

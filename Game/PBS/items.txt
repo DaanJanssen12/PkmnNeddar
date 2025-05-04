@@ -7369,4 +7369,13 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = This vial is empty, recharge it at the PokéCenter.
+Description = This pool floatie allows you to go on the water safely.
+#-------------------------------
+[CUTITEM]
+Name = Hedge trimmer
+NamePlural = Hedge trimmers
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = This hedge trimmer allows you to cut through small trees.
